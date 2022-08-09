@@ -15,3 +15,4 @@ FB.getLoginStatus(function(response) {
     console.log(response.strigify);
     statusChangeCallback(response);
 });
+ console.log("Hi");
